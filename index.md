@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # H1
 ## H2
 ### H3
@@ -8,4 +10,8 @@
 __bold__
 *__italicbold__*
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
