@@ -7,3 +7,5 @@
 *italic*
 __bold__
 *__italicbold__*
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
